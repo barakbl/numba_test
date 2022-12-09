@@ -1,2 +1,3 @@
 # numba_test
-some tests for numba run
+some tests for numba performance - WIP
+
